@@ -1,15 +1,21 @@
 _repo: Der-Dreispitz_50216
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Meister, Hulda
     gutenberg_agent_id: '45757'
     url: http://www.gutenberg.org/2009/agents/45757
+covers:
+- cover_type: archival
+  image_path: 50216-h/images/cover_ebook.jpg
 creator:
   author:
     agent_name: Alarcon, Pedro de
     gutenberg_agent_id: '45756'
     url: http://www.gutenberg.org/2009/agents/45756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50216#Der-Dreispitz
 gutenberg_issued: '2015-10-14'
 gutenberg_type: Text
 identifiers:
